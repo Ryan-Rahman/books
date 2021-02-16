@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.headertxt{
+    text-align: center;
+    font-family: Josefin Sans;
+    color: white;
+}
+body{
+    background-color: #290f2e;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+.bookcovers{
+    margin-left: 38%;
+}
